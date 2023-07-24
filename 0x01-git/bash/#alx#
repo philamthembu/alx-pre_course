@@ -1,13 +1,7 @@
-:qw
 #!/bin/bash
-echo "School"
-^C
-cd~
-
-
-cd/
-cd..
-root@896cf839cf9a:/alx-pre_course/0x01-git/bash#pwd
-^s
-*C
-^C
+echo "ALX School is so cool!"
+
+
+
+case ::wq in
+    
